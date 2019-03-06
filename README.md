@@ -1,4 +1,5 @@
 # WebAR-Sandbox
+WebAR Sandbox is a project that combines VueJS to design and developing the sandbox and Swift for the ARKit app on iOS, allowing users to view and interact with AR objects on the site.
 
 ## Project setup
 
